@@ -20,7 +20,7 @@ export default function () {
           </a>
         </div>
         <div className="resume-img-box">
-          <img src="src/assets/R.jpg" alt="Resume-img" />
+          <img src="src/assets/ResumeImg.png" alt="Resume-img" />
         </div>
       </section>
     </>
