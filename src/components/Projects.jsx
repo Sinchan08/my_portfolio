@@ -11,20 +11,18 @@ import React, { useState } from "react";
 import { DiMongodb } from "react-icons/di"; // MongoDB icon from Devicons
 
 const descriptions1 = [
-  "Tour and booking management RESTful API built with MERN stack and user authentication implemented using jwt",
+  "KCET Seat Availability Management System built as a DBMS project using MySQL for backend data handling, featuring relational schema design, seat allocation queries, and real-time availability tracking via a user-friendly web interface.",
 ];
 
 const descriptions2 = [
-  "Full-stack web application to manage all restaurant operations, including inventory management and online slot reservations",
+  "API vulnerability scanner designed for a cryptocurrency platform, built to detect insecure endpoints and enforce security rules based on OWASP API Security Top 10 guidelines.",
 ];
+
 
 const descriptions3 = [
-  "An online bank that takes care of your transaction history, in a clear and organized way",
+  "Smart City Complaint Hub where citizens can raise complaints, upload supporting images, and track case progress through an organized online portal.",
 ];
 
-const descriptions4 = [
-  "Manages projects and tasks seamlessly, built utilizing the reusable components React.js and styled with Tailwind",
-];
 
 export default function Projects() {
   const email = "naik.sinchana13@gmail.com";
