@@ -1,6 +1,6 @@
 import React from "react";
 
-import ResumePDF from "../assets/Sinchana.pdf";
+import ResumePDF from "../assets/Sinchana Resume1.pdf";
 
 export default function () {
   return (

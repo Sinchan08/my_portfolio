@@ -32,15 +32,15 @@ Always eager to learn and explore new technologies.
             I'm well-versed in a variety of programming languages and web
             technologies. My fields of interest include{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
-              fullstack web development
+              DataScience
             </span>
             , and I'm quite fluent in basics like{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
-              C++
+              Python
             </span>
             ,{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
-              Python
+              Java
             </span>
             ,{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
@@ -80,7 +80,7 @@ Always eager to learn and explore new technologies.
             </span>
             ,{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
-              reading novels
+              painting
             </span>
             ,{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
@@ -88,7 +88,7 @@ Always eager to learn and explore new technologies.
             </span>
             ,{" "}
             <span className="half-text" style={{ fontWeight: "bold" }}>
-              art and painting
+              mandal arts
             </span>
             .
           </p>

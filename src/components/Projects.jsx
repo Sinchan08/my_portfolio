@@ -27,7 +27,7 @@ const descriptions4 = [
 ];
 
 export default function Projects() {
-  const email = "sreejita.das16@gmail.com";
+  const email = "naik.sinchana13@gmail.com";
   const [buttonText, setButtonText] = useState("Copy my email");
 
   function copyEmailHandler() {
@@ -45,36 +45,7 @@ export default function Projects() {
       <div className="projects-box">
         <div className="project-card-1">
           <div className="project-details">
-            <h2 className="project-title">RESTful API</h2>
-            <p className="project-description">{descriptions1}</p>
-            <div
-              className="tech-icons"
-              style={{ display: "flex", gap: "1rem", fontSize: "2rem" }}
-            >
-              <div title="MongoDB">
-                <DiMongodb />
-              </div>
-              <div title="Express">
-                <FaServer />
-              </div>
-              <div title="React">
-                <FaReact />
-              </div>
-              <div title="Node.js">
-                <FaNodeJs />
-              </div>
-            </div>
-          </div>
-          <a
-            href="https://github.com/sreejitadass/RESTful-API-project"
-            className="repo-link"
-          >
-            Repository
-          </a>
-        </div>
-        <div className="project-card-2">
-          <div className="project-details">
-            <h2 className="project-title">Restaurant Management System</h2>
+            <h2 className="project-title">KCET Seat Availability System</h2>
             <p className="project-description">{descriptions2}</p>
             <div
               className="tech-icons"
@@ -98,9 +69,9 @@ export default function Projects() {
             Repository
           </a>
         </div>
-        <div className="project-card-3">
+        <div className="project-card-2">
           <div className="project-details">
-            <h2 className="project-title">Online Bank Application</h2>
+            <h2 className="project-title">API Vulnerability Scanner</h2>
             <p className="project-description">{descriptions3}</p>
             <div
               className="tech-icons"
@@ -109,7 +80,7 @@ export default function Projects() {
               <div title="HTML">
                 <FaHtml5 />
               </div>
-              <div title="CSS">
+              <div title="Tailwand CSS">
                 <FaCss3Alt />
               </div>
               <div title="JavaScript">
@@ -118,15 +89,15 @@ export default function Projects() {
             </div>
           </div>
           <a
-            href="https://github.com/sreejitadass/online-Bank-mini-project"
+            href="https://github.com/SameekshaMenda/SaveScanAPI_QuantumCrypto"
             className="repo-link"
           >
             Repository
           </a>
         </div>
-        <div className="project-card-4">
+        <div className="project-card-3">
           <div className="project-details">
-            <h2 className="project-title">Project Management System</h2>
+            <h2 className="project-title">SmartCity Complaint Hub</h2>
             <p className="project-description">{descriptions4}</p>
             <div
               className="tech-icons"
@@ -147,7 +118,7 @@ export default function Projects() {
             </div>
           </div>
           <a
-            href="https://github.com/sreejitadass/project-management-application"
+            href="https://github.com/Sinchan08/SmartCityHub"
             className="repo-link"
           >
             Repository
